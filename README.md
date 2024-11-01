@@ -13,7 +13,7 @@ Biaya Pembuatan 3jt (Armor)
 Biaya Pembuatan 5jt (Senjata)
 Biaya Pembuatan 3jt (Armor)
 
--Dustfall : Spirit of the forge
+- Dustfall : Spirit of the forge
 Biaya pembuatan 8jt (Senjata)
 Biaya Pembuatan 5jt (Armor)
 
